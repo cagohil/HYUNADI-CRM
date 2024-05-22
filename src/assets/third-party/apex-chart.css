@@ -1,0 +1,20 @@
+.apexcharts-legend-series .apexcharts-legend-marker {
+  left: -4px !important;
+  top: 2px !important;
+}
+.authCard{
+  background-color: #000000d4;
+  color: white;
+}
+
+.authCard label, .authCard input, .authCard button, .authCard a{
+  color: white;
+}
+
+.authBackground{
+  background-color: #eee;
+  background-position: center;
+  background-size: cover;
+  background-image: url('../images/bgImage.jpeg');
+  /* animation: image 50s infinite alternate; */
+}
