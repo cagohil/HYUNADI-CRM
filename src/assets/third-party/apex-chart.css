@@ -16,5 +16,23 @@
   background-position: center;
   background-size: cover;
   background-image: url('../images/bgImage.jpeg');
-  /* animation: image 50s infinite alternate; */
+  animation: image 50s infinite alternate;
+}
+
+@keyframes image {
+  0% {
+    background-image: url('../images/bgImage.jpeg');
+  }
+  25% {
+    background-image: url('../images/bgImage4.webp');
+  }
+  50% {
+    background-image: url('../images/bgImage3.jpeg');
+  }
+  75% {
+    background-image: url('../images/bgImage7.webp');
+  }
+  100% {
+    background-image: url('../images/bgImage5.webp');
+  }
 }
