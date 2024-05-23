@@ -1,12 +1,12 @@
 {
-  "name": "mantis-free-react-admin-template",
+  "name": "exultitsolution",
   "version": "1.3.0",
   "private": true,
-  "homepage": "https://mantisdashboard.io/free",
+  "homepage": "https://exultitsolution.com",
   "author": {
-    "name": "CodedThemes",
-    "email": "codedthemes@gmail.com",
-    "url": "https://codedthemes.com/"
+    "name": "ExultItSolution",
+    "email": "info@exultitsolution.com",
+    "url": "https://exultitsolution.com/"
   },
   "scripts": {
     "start": "vite",
@@ -22,6 +22,7 @@
     "@emotion/cache": "^11.11.0",
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",
+    "@faker-js/faker": "^8.4.1",
     "@fontsource/inter": "^5.0.17",
     "@fontsource/poppins": "^5.0.12",
     "@fontsource/public-sans": "^5.0.17",
