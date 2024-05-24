@@ -36,3 +36,9 @@
     background-image: url('../images/bgImage5.webp');
   }
 }
+
+.btn-primary{
+  background-color: #032d5d !important;
+  margin: 5px !important;
+  padding: 5px !important;
+}
